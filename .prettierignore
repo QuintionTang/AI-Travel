@@ -1,0 +1,13 @@
+# Don't check auto-generated stuff into git
+.next
+
+node_modules
+.cache
+coverage/
+.DS_Store
+npm-debug.log
+.vscode
+.babelrc
+
+.DS_Store
+.env
